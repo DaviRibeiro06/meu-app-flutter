@@ -123,7 +123,7 @@ void trabalharComTipos() {
     ```bash
    cd lib
    ```
-
+   
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tem ideias de melhorias ou novos exemplos para incluir, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
