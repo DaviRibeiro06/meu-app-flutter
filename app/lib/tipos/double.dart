@@ -1,4 +1,3 @@
-import 'dart:ffi';
 
 void main(List<String> arguments) {
   List<String> lstString = [];
